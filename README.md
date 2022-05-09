@@ -1,4 +1,4 @@
-## @RishabhNaik
+## @PrajwalV03
 
 <!--
 **RishabhNaik/RishabhNaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
